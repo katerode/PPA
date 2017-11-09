@@ -37,3 +37,4 @@ zrobić klasę w miejscu, lokalnie, która jest podklasą , nie ma nazwy nazywa 
 tam gdzie mamy funkcję, interfejs funkcyjny, tam gdzie mamy tylko 1 niezaimplementowaną metodę,
 mozna zastąpic klasę anonimową(za każdym razem jest to nowa klasa) lambdą, która nie ma stanu. 
 fabryka : 2 metody, tez się nie da. 
+
